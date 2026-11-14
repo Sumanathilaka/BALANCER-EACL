@@ -71,5 +71,7 @@ the repository by default.
 ## Publication
 
 Accepted to EACL 2027 findings.
+
 Paper title : BALANCER: Balanced Agentic Learning via Adaptive dyNamic Context ExtRaction for Hard Word Sense Disambiguation
+
 Authors: Deshan Sumanathilaka, Nicholas Micallef, Julian Hough
