@@ -1,4 +1,4 @@
-# BALANCER
+# BALANCER: Balanced Agentic Learning via Adaptive dyNamic Context ExtRaction for Hard Word Sense Disambiguation
 
 This repository contains experiments and data for English and multilingual word sense
 disambiguation (WSD). It includes notebooks for generating or enriching
@@ -70,4 +70,6 @@ the repository by default.
 
 ## Publication
 
-Accepeted to EACL 2027 findings.
+Accepted to EACL 2027 findings.
+Paper title : BALANCER: Balanced Agentic Learning via Adaptive dyNamic Context ExtRaction for Hard Word Sense Disambiguation
+Authors: Deshan Sumanathilaka, Nicholas Micallef, Julian Hough
